@@ -2,6 +2,8 @@
 
 The Achiever screen saver uses your Mac's camera to show your mirror image in the Man of the Year magazine cover, just like The Dude.
 
+![screen shot](screenshot.png)
+
 1. Download the [latest release](https://github.com/kolpanic/Achiever/releases), and expand the archive.
 2. Move `Achiever.qtz` to `~/Library/Screen Savers/`. If your Library folder is not visible, you can [show it in the Finder](http://support.apple.com/kb/PH18928?viewlocale=en_US).
 3. Open System Preferences (under the  menu). Click on the Desktop & Screen Saver icon, and choose the Screen Saver tab.
