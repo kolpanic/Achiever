@@ -12,6 +12,5 @@ The Achiever screen saver uses your Mac's camera to show your mirror image in th
 
 You can also use [Hot Corners](http://support.apple.com/kb/PH18796?viewlocale=en_US) to activate the screen saver whenever you want, and [Require a Password](http://support.apple.com/kb/PH18669?viewlocale=en_US) to deactivate the screen saver.
 
-It's just a Quartz composition, so It should work with recent versions of OS X. However, your mileage may vary. There are no guarantees.
-
+It's just a Quartz composition, so It should work with recent versions of OS X. Also, you should be able to open `Achiever.qtz` in Quicktime Player if you just want to preview it.  However, your mileage may vary. There are no guarantees.
 *The Dude abides.*
