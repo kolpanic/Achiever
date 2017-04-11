@@ -1,4 +1,4 @@
-###ARE YOU A LEBOWSKI ACHIEVER?
+### ARE YOU A LEBOWSKI ACHIEVER?
 
 The Achiever screen saver uses your Mac's camera to show your mirror image in the Man of the Year magazine cover, just like The Dude.
 
