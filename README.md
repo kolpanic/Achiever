@@ -12,12 +12,16 @@ The Achiever screen saver uses your Mac's camera to show your mirror image in th
 
 You can also use [Hot Corners](http://support.apple.com/kb/PH18796?viewlocale=en_US) to activate the screen saver whenever you want, and [Require a Password](http://support.apple.com/kb/PH18669?viewlocale=en_US) to deactivate the screen saver.
 
-It's just a Quartz composition, so It should work with recent versions of macOS up to and including 10.13. Also, you should be able to open `Achiever.qtz` in Quicktime Player if you just want to preview it.  However, your mileage may vary. There are no guarantees.
+It's just a Quartz composition, so It should work with recent versions of macOS up to and including 10.13. Also, you should be able to open `Achiever.qtz` in QuickTime Player if you just want to preview it.  However, your mileage may vary. There are no guarantees.
 
 ### Mojave
 
 Apple says Quartz compositions are no longer supported as screen savers in macOS 10.14. In addition, Achiever.qtz can't be opened by Quartz Composer on 10.14 because the app doesn't have the entitlements required to use the camera.
 
-However, you _can_ open Achiever.qtz with Quicktime Player—the first time, you'll be prompted to allow camera access.
+However, you _can_ open Achiever.qtz with QuickTime Player—the first time, you'll be prompted to allow camera access.
+
+### Big Sur
+
+As of macOS 11 (IIRC), .qtz files aren't supported at all, even in QuickTime Player.
 
 *The Dude abides.*
